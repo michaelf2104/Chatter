@@ -1,0 +1,28 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build outputs
+target/
+build/
+.gradle/
+
+# Compiled class files
+*.class
+
+# Logs and environment
+*.log
+*.env
+*.lst
+*.keystore
+
+# Node.js
+node_modules/
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
